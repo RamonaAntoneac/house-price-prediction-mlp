@@ -1,4 +1,9 @@
 # Sistem Inteligent de Predicție a Prețurilor Imobiliare folosind Rețele Neuronale MLP
+**Autor:** Antoneac Ramona-Florina  
+**An:** 2025
+
+---
+
 
 Un sistem inteligent de estimare a prețurilor imobiliare construit cu un model de regresie Multilayer Perceptron (MLP). Sistemul prezice prețul de vânzare al locuințelor pe baza caracteristicilor structurale, funcționale și de localizare, utilizând dataset-ul Kaggle *House Prices – Advanced Regression Techniques*.
 
