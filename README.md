@@ -1,6 +1,6 @@
 # Sistem Inteligent de Predicție a Prețurilor Imobiliare folosind Rețele Neuronale MLP
 **Autor:** Antoneac Ramona-Florina  
-**An:** 2025
+**An:** 2026
 
 ---
 
